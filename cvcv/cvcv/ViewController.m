@@ -21,7 +21,7 @@
 
 - (void)shit
 {
-    NSLog(@"i am a big big girl");
+    NSLog(@"i am a big big girl,in a big big world   take me to your heart");
 }
 
 - (void)didReceiveMemoryWarning {
